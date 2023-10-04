@@ -1,4 +1,16 @@
 { 
+   "stocks": [
+     {
+        "id": 1,
+        "dates": "2023-10-03",
+        "open_price": "19622.40",
+        "close_price": "19528.75",
+        "high_price": "19623.20",
+        "low_price": "19479.65",
+        "createdAt": "2023-10-04",
+        "updatedAt": "2023-10-04"
+    }
+   ],  
   "employees": [
     {
       "id": 1,
